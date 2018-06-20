@@ -27,3 +27,5 @@
     vrplanner
 ### 8、示例:
     https://site.altizure.cn/project/5a172b4ba27ade76d60e7233/model?from=singlemessage&isappinstalled=0
+### 9、简易样例(未实现后台模板):
+    http://45.78.39.124:8000/
